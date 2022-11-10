@@ -1,0 +1,12 @@
+.header{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+    box-shadow: 10px 10px 5px 0px aliceblue;
+-webkit-box-shadow: 10px 10px 5px 0px aliceblue;
+-moz-box-shadow: 10px 10px 5px 0px aliceblue;
+}
